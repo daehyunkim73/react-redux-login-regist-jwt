@@ -1,0 +1,2 @@
+
+   pm2 serve build/ 9001 --name "react-build" --spa

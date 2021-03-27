@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b66941c-714a-407d-b8b1-f74f597960e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../react-redux-login-regist-board-api/log/error/.b658c3e43b922ba2dbe1e19d197717251929572b-audit.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-login-regist-board-api/log/error/.b658c3e43b922ba2dbe1e19d197717251929572b-audit.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-login-regist-board-api/log/info/.cceed2b68c3d8e615c14aa9b1729ac365884b414-audit.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-login-regist-board-api/log/info/.cceed2b68c3d8e615c14aa9b1729ac365884b414-audit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pm2.readMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-redux-login-regist-board-api/log/info/serverInfo-2021-03-27.log" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-login-regist-board-api/log/info/serverInfo-2021-03-27.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -69,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609041025798</updated>
-      <workItem from="1609041026873" duration="537397000" />
+      <workItem from="1609041026873" duration="542122000" />
     </task>
     <servers />
   </component>
