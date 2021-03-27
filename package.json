@@ -2,8 +2,8 @@
   "name": "webpack4-react",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/jeffchoi72/webpack4-react.git",
-  "author": "jeffchoi72 <ihello0720@gmail.com>",
+  "repository": "https://github.com/daehyunkim73/react-redux-login-regist-jwt.git",
+  "author": "grandskywind <grandskywind@daum.net>",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --config ./config/webpack.dev.config --hot",
